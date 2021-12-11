@@ -1,2 +1,4 @@
 # termi
-This is a project still under construction but what it is supposed to do is make using the linux terminal much more user friendly!
+First version of TermI Has released!!
+However it is currently in alpha testing alpha 1.0
+Feel free to put in the issues any bugs
