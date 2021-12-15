@@ -6,7 +6,6 @@
 ░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝
 
 
-
 TermI is a project designed to open applications with shortcuts rather than typing in tedious command lines.
 
 Note:
