@@ -11,10 +11,8 @@ TermI is a project designed to open applications with shortcuts rather than typi
 Note:
 TermI is currently in alpha testing.
 
-UPDATE DECEMBER 13 2021 (mon)!
+UPDATE DECEMBER 15 Wednesday! 2021 !
 Whats new?
-1. Changed txt files to .data files to hopefully encrypt where the username and password's are stored.
-2. Added TermI logo to setup python file.
-3. Putted all the other .py files in a ignore folder to get the termi folder look less cluttery.
-4. Added install commands for both cmatrix and links. For example if cmatrix isn't installed then it will install it for you depending on what linux distro you are on!
-
+1. Added New 3D Linux logo to system info.
+2. Added a welcome Text to the home.py when you enter your correct username and password.
+3. Added a Custom Terminal for TermI.
