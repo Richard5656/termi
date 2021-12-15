@@ -9,7 +9,7 @@ What is TermI?
 TermI is a project designed to open applications with shortcuts rather than typing in tedious command lines.
 
 Note:
-TermI is currently in alpha testing.
+TermI is currently in alpha 1.3
 
 UPDATE DECEMBER 15 Wednesday! 2021 !
 Whats new?
