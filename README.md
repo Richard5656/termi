@@ -21,3 +21,6 @@ Whats new?
 IMPORTAIN!!
 This will be the last update until christmas break passe's
 I wish you all a merry christmas!
+
+--Note--
+At some point i will port this project to c++ code
